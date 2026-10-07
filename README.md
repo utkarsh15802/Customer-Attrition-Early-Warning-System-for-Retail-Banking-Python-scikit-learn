@@ -1,0 +1,2 @@
+# Customer-Attrition-Early-Warning-System-for-Retail-Banking-Python-scikit-learn
+Customer Attrition Early-Warning System for Retail Banking | Python, scikit-learn  Developed an early-warning model to flag at-risk customers across a 10,000-customer retail bank portfolio with 20.4% attrition Achieved 86.4% accuracy and 0.85 ROC-AUC with Random Forest, up from 80.8% and 0.78 for the Logistic Regression baseline
